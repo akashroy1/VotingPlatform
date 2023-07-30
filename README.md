@@ -85,4 +85,4 @@ A brief explanation on the basic workflow of the application.
    
 ---
 
-Made with ❤️ by Akash, Samme, Jashwanth, Gourav.
+Made with ❤️ by Akash
